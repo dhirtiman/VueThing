@@ -1,0 +1,19 @@
+# Ignore Node.js related files
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Ignore Vue.js build artifacts
+/dist/
+/.env.local
+.env.local
+.env.*.local
+.env.development.local
+.env.production.local
+
+# Ignore Vue.js dependencies (if using Vue CLI)
+/node_modules/
+/public/
+
+# Ignore Vue.js generated files
+/dist/
